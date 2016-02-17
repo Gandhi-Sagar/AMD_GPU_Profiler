@@ -1,0 +1,9 @@
+ATI Technologies Inc.
+4.1.11013 Compatibility Profile Context
+Radeon (TM) HD 6770M
+Shading Language Version Support4.10
+Max no of simultaneous o/p buffers are 8
+Max texture size is 16384
+Max texture buffer size is 268435456
+Max texture Units are  8
+Total GPU RAM is 1024
